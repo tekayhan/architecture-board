@@ -11,3 +11,9 @@ roundell (James Roundell)
 taekim (Tae Kim)
 umanchan (Uman Chan)
 zzzoran (Zoran Budzakoski)
+Fabio Cognigni
+Liya Aizenberg
+Rajib Banik
+Siva Yeruva
+Himanshu Yadav
+Slava Alayev
