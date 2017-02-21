@@ -1,20 +1,22 @@
-anjosmi (Michele Anjos)
+
 atrenaman (Ade Trenaman), BDFL
 gabrielgoodman (Gabriel Goodman)
 gheine (Gregor Heine)
-jkalluri (Jay Kalluri), Chair
 jmc (John McCormick), BDFL
-lgelfan (Lars Gelfan)
-mattpick (Matt Pick)
-rcavallo (Ron Cavallo), BDFL
-roundell (James Roundell)
-taekim (Tae Kim)
-umanchan (Uman Chan)
-zzzoran (Zoran Budzakoski)
 Fabio Cognigni
 Liya Aizenberg
 Rajib Banik
 Siva Yeruva
 Himanshu Yadav
-Slava Alayev
+Matt Pick
 Soraya Dib
+Tim Decker
+Anthony Garo
+Richard Shuster
+VJ Charles
+Puneet Arya
+Jose Martinez
+Dennis Fung
+Slava Alayev
+Donovan Adams
+Ranga?
