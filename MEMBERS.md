@@ -5,21 +5,18 @@ gheine (Gregor Heine)
 jmc (John McCormick), BDFL ???
 Fabio Cognigni *
 Liya Aizenberg *
-Rajib Banik
-Siva Yeruva
-Himanshu Yadav *
 Matt Pick *
 Soraya Dib
 Tim Decker
-Anthony Garo
 Richard Shuster
-VJ Charles
 Jose Martinez *
 Dennis Fung *
 Slava Alayev
 Donovan Adams
-Jon Hadis *
 Hyung Suh *
-Ranga???
+Ranga
 Jacob Tadros
+OMS team member?
+Steve Unge or someone from PIM
+Sameer Varpe
 
