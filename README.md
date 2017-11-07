@@ -8,7 +8,7 @@ The objective of the Architecture Board is to facilitate a broader conversation 
 
 The Architecture Board comprises of the most senior engineers and leaders in the engineering organisations of HBC Tech. It’s responsibilities are:
 
-* To maintain a Tech Radar to provide recommendations to engineering teams on technologies and trends to hold, assess, trial or adopt.
+* To provide recommendations to engineering teams on technologies and trends to hold, assess, trial or adopt at HBC. This is done through the use of a Tech Radar.
 * Assess specific technologies - both already at HBC or not yet in use at HBC
 * To maintain a small set of standards and technologies that all team should adhere to when working across team boundaries.
 * Establish an annual review to ensure all standards are actively reviewed annually.
@@ -18,7 +18,7 @@ The Architecture Board comprises of the most senior engineers and leaders in the
 * Assist teams in solving hard technical problems in simple, scalable ways
 * Establish an RFC (Request For Comments) process so that engineering teams can get rapid feedback on proposed architectures.
 * Publish and maintain a simple means to contact the board for help with issues and visibility of the feedback loop through to resolution.
-* Establish and nurture technology Guilds across HBC Tech for where specialist technologies can be debated in a birds-of-a-feather setting.
+* Establish and nurture technology guilds across HBC Tech where specialist technologies can be debated in a birds-of-a-feather setting.
 
 Members of the board are formed from teams across HBC Tech, and are available to provide the Architect Ingredient to initiative teams in their department / domain.
 
