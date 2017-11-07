@@ -1,22 +1,26 @@
 
-atrenaman (Ade Trenaman), BDFL
-gabrielgoodman (Gabriel Goodman) *
-gheine (Gregor Heine)
-jmc (John McCormick), BDFL ???
-Fabio Cognigni *
-Liya Aizenberg *
-Matt Pick *
-Soraya Dib
-Tim Decker
-Richard Shuster
-Jose Martinez *
-Dennis Fung *
-Slava Alayev
-Donovan Adams
-Hyung Suh *
-Ranga
-Jacob Tadros
-OMS team member?
-Steve Unge or someone from PIM
-Sameer Varpe
+## BDFL (SVP Engineering)
+* Adrian Trenaman
 
+## Board Members
+* Ranga Rhadakrishnan
+* Matt Pick
+* Rob Brazier
+* Ruxy Levy
+* John Kenny
+* Donovan Adams
+* Aidan Hollinshead
+* Justin Riservato
+* Gregor Heine
+* Evan Maloney
+* Andrey Kartashov
+* Ugo Matrangolo
+* Gary Cody
+* Hyung Suh
+* Soraya Dib
+* Sean Sullivan
+* Slava Alayev
+* Rohit Talati
+* Fabio Cognigni
+* Gabriel Goodman
+* Ed Hill
