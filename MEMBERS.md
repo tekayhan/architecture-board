@@ -6,7 +6,6 @@
 * Ranga Rhadakrishnan
 * Matt Pick
 * Rob Brazier
-* Ruxy Levy
 * John Kenny
 * Donovan Adams
 * Aidan Hollinshead
