@@ -3,9 +3,13 @@
 * Adrian Trenaman
 
 ## Board Members
+Initial list drawn from Principal, Distinguished, Architect and Director roles, along with
+a selection of members of the previous Gilt and HBC Architecture boards.
+
 * Ranga Rhadakrishnan
 * Matt Pick
 * Rob Brazier
+* Young Moon
 * John Kenny
 * Donovan Adams
 * Aidan Hollinshead
@@ -14,10 +18,11 @@
 * Evan Maloney
 * Andrey Kartashov
 * Ugo Matrangolo
-* Gary Cody
+* Gary Coady
 * Hyung Suh
 * Soraya Dib
 * Sean Sullivan
+* David Hevron
 * Slava Alayev
 * Rohit Talati
 * Fabio Cognigni
