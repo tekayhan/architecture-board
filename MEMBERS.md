@@ -6,7 +6,7 @@
 Initial list drawn from Principal, Distinguished, Architect and Director roles, along with
 a selection of members of the previous Gilt and HBC Architecture boards.
 
-* Ranga Rhadakrishnan
+* Ranga Radhakrishnan
 * Matt Pick
 * Rob Brazier
 * Young Moon
