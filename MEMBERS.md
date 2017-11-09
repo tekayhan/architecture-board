@@ -3,28 +3,59 @@
 * Adrian Trenaman
 
 ## Board Members
-Initial list drawn from Principal, Distinguished, Architect and Director roles, along with
-a selection of members of the previous Gilt and HBC Architecture boards.
+The board membership has been seeded from members of the previous architecture boards, chosen
+to ensure a strong representation over multiple parts of the stack. As time evolves, members
+be voted in as required to ensure consistent representation.
 
+### AWS, Infrastructure & Networks
 * Ranga Radhakrishnan
+* Johnny Yi
 * Matt Pick
-* Rob Brazier
-* Young Moon
-* John Kenny
-* Donovan Adams
-* Aidan Hollinshead
-* Justin Riservato
-* Gregor Heine
+* Sameer Varpe
+* Tim Decker
+
+### Mobile App
 * Evan Maloney
-* Andrey Kartashov
-* Ugo Matrangolo
-* Gary Coady
-* Hyung Suh
-* Soraya Dib
-* Sean Sullivan
-* David Hevron
-* Slava Alayev
 * Rohit Talati
 * Fabio Cognigni
+
+### Gilt Front-end
+* Nick Rogers
+* Rory Haddon
+
+### Content Engineering
+* David Hevron
+* Rich Schuster
+
+### Gilt Services
+* Ugo Matrangolo
+* Gary Coady
+* Andrey Kartashov
+
+### Machine Learning & Personalisation
+* Kevin O'Riordan
+
+### Data
+* Liya Aizenburg
+
+### HBC Common Platform Services / Backend
+* Gregor Heine
+* Dennis Fung
+* John Kenny
+* Jose Martinez
+
+### Backoffice (Orders, Payments, Inventory)
+* Rob Brazier
+* Andy Weist
+
+### Email
+* Mike Melton
+
+### HBC Architecture Team
 * Gabriel Goodman
 * Ed Hill
+
+### HBC Common Platform Frontend
+* Hyung Suh
+* Soraya Dib
+* Slava Alayev
