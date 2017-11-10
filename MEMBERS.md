@@ -47,6 +47,7 @@ be voted in as required to ensure consistent representation.
 ### Backoffice (Orders, Payments, Inventory)
 * Rob Brazier
 * Andy Weist
+* Sean Sullivan
 
 ### Email
 * Mike Melton
