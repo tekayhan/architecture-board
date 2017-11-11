@@ -85,7 +85,7 @@ In order to ensure broad technical and departmental representation, the board ma
 
 ## Guilds
 
-Often sub-architectures or technologies are shared across different departments of the organisation (e.g. front-end technologies, payments, data-platform) and it is desirable to create a regular forum for those architectures and technologies to be discussed by a smaller more focused group. These guilds are not governed, controlled or answerable to the Architecture Board; however, the architecture board should foster and nurture the growth of a healthy ecosystem of guilds throughout the organisation, and the representation of those guilds in the architecture board and participation in the Architecture Council.
+Often sub-architectures or technologies are shared across different departments of the organisation (e.g. front-end technologies, payments, data-platform, QA, Automation) and it is desirable to create a regular forum for those architectures and technologies to be discussed by a smaller more focused group. These guilds are not governed, controlled or answerable to the Architecture Board; however, the architecture board should foster and nurture the growth of a healthy ecosystem of guilds throughout the organisation, and the representation of those guilds in the architecture board and participation in the Architecture Council. As part of encouraging and nurturing the development of guilds, the Architecture board will provide guidance on how to create and operate guilds.
 
 ## History
 
