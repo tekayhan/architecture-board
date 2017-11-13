@@ -36,7 +36,7 @@ be voted in as required to ensure consistent representation.
 * Kevin O'Riordan
 
 ### Data
-* Liya Aizenburg
+* Liya Aizenberg
 
 ### HBC Common Platform Services / Backend
 * Gregor Heine
