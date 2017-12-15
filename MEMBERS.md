@@ -24,7 +24,6 @@ be voted in as required to ensure consistent representation.
 
 ### Content Engineering
 * David Hevron
-* Rich Schuster
 
 ### Gilt Services
 * Ugo Matrangolo
@@ -43,10 +42,11 @@ be voted in as required to ensure consistent representation.
 * John Kenny
 * Jose Martinez
 
-### Backoffice (Orders, Payments, Inventory)
+### Backoffice (Orders, Payments, Inventory, Internal Tools)
 * Rob Brazier
 * Andy Weist
 * Sean Sullivan
+* Rich Schuster
 
 ### Email
 * Mike Melton
