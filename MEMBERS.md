@@ -8,7 +8,6 @@ to ensure a strong representation over multiple parts of the stack. As time evol
 be voted in as required to ensure consistent representation.
 
 ### AWS, Infrastructure & Networks
-* Ranga Radhakrishnan
 * Johnny Yi
 * Matt Pick
 * Sameer Varpe
