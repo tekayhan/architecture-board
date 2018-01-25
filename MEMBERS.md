@@ -19,7 +19,6 @@ be voted in as required to ensure consistent representation.
 * Fabio Cognigni
 
 ### Gilt Front-end
-* Nick Rogers
 * Rory Haddon
 
 ### Content Engineering
