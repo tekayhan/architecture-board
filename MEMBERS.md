@@ -19,7 +19,6 @@ be voted in as required to ensure consistent representation.
 * Fabio Cognigni
 
 ### Gilt Front-end
-* Nick Rogers
 * Rory Haddon
 
 ### Content Engineering
@@ -59,3 +58,6 @@ be voted in as required to ensure consistent representation.
 * Hyung Suh
 * Soraya Dib
 * Slava Alayev
+
+### Information Security
+* Ayhan Tek
