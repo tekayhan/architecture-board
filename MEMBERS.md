@@ -37,6 +37,7 @@ be voted in as required to ensure consistent representation.
 
 ### HBC Common Platform Services / Backend
 * Gregor Heine
+* Julien Sirocchi
 * Dennis Fung
 * John Kenny
 * Jose Martinez
