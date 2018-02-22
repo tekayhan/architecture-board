@@ -20,6 +20,7 @@ be voted in as required to ensure consistent representation.
 
 ### Gilt Front-end
 * Rory Haddon
+* Federico Giovagnoli
 
 ### Content Engineering
 * David Hevron
