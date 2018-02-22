@@ -59,3 +59,6 @@ be voted in as required to ensure consistent representation.
 * Hyung Suh
 * Soraya Dib
 * Slava Alayev
+
+### Information Security
+* Ayhan Tek
