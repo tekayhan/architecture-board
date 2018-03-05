@@ -1,0 +1,28 @@
+SECURE SDLC PROGRAM 
+HBC intends to improve secure SDLC practices to reduce risk and vulnerability remediation costs by empowering development teams with security technology and training.
+
+PROGRAM GOALS
+1. Implement self-served security service by providing automated security tools 
+2. Empower development teams with latest security technology and training
+3. Reduce risk and remediation cost by Identify security defects early in sdlc
+4. Automate security scan process as part of the software build process
+5. Provide transparent security and compliance reports to business and executive teams
+6. Capture security metrics to improve application security program
+
+TECHNOLOGY
+Veracode has been shortlisted as a security technology to run security scans during SDLC. Veracode provides the following security scan and services:
+1. Static Application Security Testing (SAST) - Source code is automatically analyzed to identify security defects 
+2. Open Source Software (OSS) Security Testing - If OSS libraries are used as part of the applications (Spring, Struts etc), a security scan is run transparently as part of SAST to identify vulnerabilities in OSS libraries
+3. Dynamic Application Security Testing (DAST) - Built and deployed application on a server (Web applications) are scanned dynamically to identify vulnerabilities in the applicatios.
+4. On-demand remediation guidance for developers (Phone and WebEx)
+5. eLearning on specialized security topics
+
+VERACODE POC
+To prove the value to the development teams, Application Security team is running a POC with Veracode. It has been decided to scan one Scala (WEB-AUTH), one Web applications (Saks UI and backend) and one mobile application (TBD) to see the effectiveness of the tool.
+i. The WEB-AUTH applciation has been successfully uploaded and the scan has been executed by Andrey Kartashov.
+ii. Matt Pick will setup a meeting for the Web application scan.
+iii. For the mobile application, we will work with Natalia Bartol to identify a mobile application
+
+
+
+
